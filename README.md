@@ -17,6 +17,6 @@
 <br />
 <br />
 
-[youtube]: [https://www.youtube.com/channel/UCZjiTDF5Huxz_iag1w88dYg]
-[twitter]: [https://twitter.com/tble14]
-[discord]: [https://discord.gg/Wk2VQ3ArWA]
+[youtube]: https://www.youtube.com/channel/UCZjiTDF5Huxz_iag1w88dYg
+[twitter]: https://twitter.com/tble14
+[discord]: https://discord.gg/Wk2VQ3ArWA
