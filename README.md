@@ -4,8 +4,6 @@
 ## About me:
 - I watch anime
 - I'm bad at coding
-- I play genshin
-- also minecraft and warframe
 - Asian
 
 ### Social Media:
