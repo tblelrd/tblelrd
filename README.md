@@ -1,7 +1,7 @@
-# Welcome to the landfill
+# Notable Achievements
 
-- Ignore all of my bad code and you will see that theres nothing left.
+- made some chess ai bot that can look a whole 2 moves ahead
+- like 50 bad discord bots
+- at least 5 unfinished games.
 
-- Distancing myself from the javascript/typescript past and embracing my rust/c++ future.
-
-- I love abandoning projects.
+probably should actually finishing my projects.
