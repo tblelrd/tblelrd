@@ -1,3 +1,3 @@
 Hello!
 
-![Top Languages](./profile/top-langs.svg)
+![Top Languagess](./profile/top-langs.svg)
